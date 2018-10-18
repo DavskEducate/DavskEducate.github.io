@@ -299,5 +299,122 @@ hugo version [flags]  Options  -h, --help help for version  Options inherited fr
       <description>web-content Web Content in MD files for Huny-B.CBD-Oil.App</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description> About Page </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/ipt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/ipt/</guid>
+      <description> Individual Product Testers Portal </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/labels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/labels/</guid>
+      <description> List of Labels </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/profile/</guid>
+      <description> Profile </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/</guid>
+      <description> Educate Yourself! List of Articles </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/concerns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/concerns/</guid>
+      <description> Health Concerns </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/ingredients/citricacid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/ingredients/citricacid/</guid>
+      <description> Citric Acid Description Research Products </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/products/upc50003-02401/upc00001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/products/upc50003-02401/upc00001/</guid>
+      <description>categories = [&amp;ldquo;Products&amp;rdquo;, &amp;ldquo;UPC00001&amp;rdquo;] date = &amp;ldquo;2018-10-10&amp;rdquo; description = &amp;ldquo;We designed 50 mg CBD Bath Bombs to sooth your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99&amp;rdquo; keywords = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;,&amp;ldquo;Essential Oil&amp;rdquo;,&amp;ldquo;bath bomb&amp;rdquo;] slug = &amp;ldquo;50mgCBDBathBombs&amp;rdquo; tags = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;] title = &amp;ldquo;50 mg CBD Bath Bombs&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/products/upc50003-02402/upc00001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/products/upc50003-02402/upc00001/</guid>
+      <description>categories = [&amp;ldquo;Products&amp;rdquo;, &amp;ldquo;UPC00001&amp;rdquo;] date = &amp;ldquo;2018-10-10&amp;rdquo; description = &amp;ldquo;We designed 50 mg CBD Bath Bombs to sooth your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99&amp;rdquo; keywords = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;,&amp;ldquo;Essential Oil&amp;rdquo;,&amp;ldquo;bath bomb&amp;rdquo;] slug = &amp;ldquo;50mgCBDBathBombs&amp;rdquo; tags = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;] title = &amp;ldquo;50 mg CBD Bath Bombs&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/products/upc50003-02403/upc00001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/products/upc50003-02403/upc00001/</guid>
+      <description>categories = [&amp;ldquo;Products&amp;rdquo;, &amp;ldquo;UPC00001&amp;rdquo;] date = &amp;ldquo;2018-10-10&amp;rdquo; description = &amp;ldquo;We designed 50 mg CBD Bath Bombs to sooth your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99&amp;rdquo; keywords = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;,&amp;ldquo;Essential Oil&amp;rdquo;,&amp;ldquo;bath bomb&amp;rdquo;] slug = &amp;ldquo;50mgCBDBathBombs&amp;rdquo; tags = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;] title = &amp;ldquo;50 mg CBD Bath Bombs&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/products/upc50003-02404/upc00001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/products/upc50003-02404/upc00001/</guid>
+      <description>categories = [&amp;ldquo;Products&amp;rdquo;, &amp;ldquo;UPC00001&amp;rdquo;] date = &amp;ldquo;2018-10-10&amp;rdquo; description = &amp;ldquo;We designed 50 mg CBD Bath Bombs to sooth your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99&amp;rdquo; keywords = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;,&amp;ldquo;Essential Oil&amp;rdquo;,&amp;ldquo;bath bomb&amp;rdquo;] slug = &amp;ldquo;50mgCBDBathBombs&amp;rdquo; tags = [&amp;ldquo;CBD&amp;rdquo;, &amp;ldquo;Pepperment Essential Oil&amp;rdquo;, &amp;ldquo;Eucalyptus Essential Oil&amp;rdquo;,&amp;ldquo;sore muscles&amp;rdquo;] title = &amp;ldquo;50 mg CBD Bath Bombs&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/research/</guid>
+      <description> List of Research Links </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/shopping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/shopping/</guid>
+      <description> Special Deals </description>
+    </item>
+    
   </channel>
 </rss>

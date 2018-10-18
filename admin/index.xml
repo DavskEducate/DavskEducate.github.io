@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admins on Huny-B CBD-Oil - Educate Yourself!</title>
+    <link>http://localhost:1313/admin/</link>
+    <description>Recent content in Admins on Huny-B CBD-Oil - Educate Yourself!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Huny-B CBD-Oil&amp;#8480</copyright>
+    
+	<atom:link href="http://localhost:1313/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/ipt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/ipt/</guid>
+      <description> Individual Product Testers Portal </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/labels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/labels/</guid>
+      <description> List of Labels </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/admin/profile/</guid>
+      <description> Profile </description>
+    </item>
+    
+  </channel>
+</rss>
