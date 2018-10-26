@@ -2,13 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Huny-B CBD-Oil - Educate Yourself!</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://Huny-B.CBD-Oil.App/tags/</link>
     <description>Recent content in Tags on Huny-B CBD-Oil - Educate Yourself!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Huny-B CBD-Oil&amp;#8480</copyright>
+    <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Huny-B.CBD-Oil.App/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
