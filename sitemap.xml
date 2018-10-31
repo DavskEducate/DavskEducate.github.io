@@ -3,8 +3,516 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Huny-B.CBD-Oil.App/</loc>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/</loc>
+    <lastmod>2018-01-05T20:18:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/hugobasicexample/</loc>
+    <lastmod>2017-11-22T07:42:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/these-pictures/</loc>
+    <lastmod>2017-11-13T15:33:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/hugobasicexample/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/hugobasicexample/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/features/01/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/features/02/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/features/03/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/features/04/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/features/05/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/</loc>
+    <lastmod>2017-11-22T07:42:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/features/06/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/features/</loc>
+    <lastmod>2017-11-22T13:53:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/page-shortcodes/</loc>
+    <lastmod>2017-11-22T07:41:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/these-logos/</loc>
+    <lastmod>2017-11-13T15:33:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/folder21/</loc>
+    <lastmod>2017-06-08T01:06:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/page-convallis/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/pixabay-teaserpics/</loc>
+    <lastmod>2017-12-08T08:57:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/pixabay-photocards/</loc>
+    <lastmod>2017-12-08T08:57:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/01/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder10/</loc>
+    <lastmod>2017-06-08T01:06:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/02/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/</loc>
+    <lastmod>2017-06-08T01:06:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/pixabay-testimonials/</loc>
+    <lastmod>2017-12-08T08:57:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/03/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/pixabay-clients/</loc>
+    <lastmod>2017-12-08T08:57:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/04/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/pixabay-jumbotrons/</loc>
+    <lastmod>2017-12-08T08:57:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/05/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/06/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/07/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/08/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/front/photocards/09/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/gohugoio-teaserpics/</loc>
+    <lastmod>2017-12-08T08:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/wikipedia-teaserpics/</loc>
+    <lastmod>2017-12-08T08:57:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/folder21/folder211/</loc>
+    <lastmod>2017-06-08T01:06:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/bitbucket-teaserpics/</loc>
+    <lastmod>2017-12-08T08:57:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/faq/</loc>
+    <lastmod>2018-10-27T16:53:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/index1/</loc>
     <lastmod>2018-10-26T10:56:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/products/upc8-50003-02401/50mgcbdbathbombspepeuc1/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_benchmark/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_config/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_convert/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_convert_tojson/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_convert_totoml/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_convert_toyaml/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_env/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_gen/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_gen_autocomplete/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_gen_chromastyles/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_gen_doc/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_gen_man/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_import/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_import_jekyll/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_list/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_list_drafts/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_list_expired/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_list_future/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_new/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_new_site/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_new_theme/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_server/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/commands/hugo_version/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/gallery-01/</loc>
+    <lastmod>2018-05-08T22:25:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/attach-page-resources/</loc>
+    <lastmod>2018-04-09T13:38:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/image-processing-with-hugo/</loc>
+    <lastmod>2018-04-06T20:18:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/liti-01/</loc>
+    <lastmod>2018-01-18T20:01:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/code-01/</loc>
+    <lastmod>2018-01-08T10:34:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/video-03/</loc>
+    <lastmod>2018-01-05T21:01:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/video-02/</loc>
+    <lastmod>2018-01-05T20:50:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/console-01/</loc>
+    <lastmod>2018-01-05T20:38:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/showcase/video-01/</loc>
+    <lastmod>2017-12-16T21:46:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/images-taken-from/</loc>
+    <lastmod>2017-12-08T08:44:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/estdui-fermentum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/felis-vel-velit/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/magna-orci-ultrices/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder10/malesuada-massa/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/nam-asapien/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder10/neque-nec/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/neque-orci/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/folder21/nullam/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/folder21/folder211/rutrum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/folder21/folder211/phasellus/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/folder21/vestibulum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/folder20/vestibulum-convallis/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/hugobasicexample/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/hugobasicexample/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/hugo-theme-w3css-basic/hugobasicexample/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/admin/ipt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/admin/labels/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/admin/profile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/concerns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/ingredients/citricacid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/ingredients/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/pages/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/shopping/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/admin/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,13 +521,280 @@
   </url>
   
   <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/cbd/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/eucalyptus-essential-oil/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/eyecatcher/</loc>
+    <lastmod>2017-11-22T13:53:53+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/features/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/fermentum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/folder10/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/folder20/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/front/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/hugo-basic-example/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/hugodoc/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Huny-B.CBD-Oil.App/</loc>
-    <lastmod>2018-10-26T10:56:17-05:00</lastmod>
+    <lastmod>2017-11-13T15:33:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/images/</loc>
+    <lastmod>2018-05-08T22:25:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/know-how/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/legal/</loc>
+    <lastmod>2017-11-13T15:33:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/license/</loc>
+    <lastmod>2017-11-13T15:33:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/logos/</loc>
+    <lastmod>2017-11-13T15:33:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/lorem/</loc>
+    <lastmod>2017-11-22T13:55:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/malesuada/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/nullam/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/pain/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/pepperment-essential-oil/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/phasellus/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/photocards/</loc>
+    <lastmod>2017-11-14T14:47:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/pictures/</loc>
+    <lastmod>2017-11-13T15:33:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/products/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/relaxing/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/resources/</loc>
+    <lastmod>2018-05-08T22:25:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/rutrum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/shortcodes/</loc>
+    <lastmod>2017-11-22T07:41:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/showcase/</loc>
+    <lastmod>2017-11-22T07:41:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/soak/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/sore-muscles/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/spa/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Huny-B.CBD-Oil.App/tags/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/this-theme/</loc>
+    <lastmod>2017-11-22T07:41:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/tags/tristique/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Huny-B.CBD-Oil.App/categories/vestibulum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
